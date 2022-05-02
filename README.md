@@ -5,3 +5,4 @@ Do not to boot onto a cpu, this is made for use inside of Windows and may work i
 I credit Cyber-Coding for the basic frame.
 Create a shortcut for the file "Bootup.py"
 That's all!
+(I'm assuming you know how to unzip a file.)
